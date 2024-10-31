@@ -1,0 +1,46 @@
+.erm_menu .erm_section {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.erm_menu .erm_product {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: flex-start;
+    column-gap: 15px;
+}
+
+.erm_menu .erm_product_image {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.erm_menu .erm_title_price_desc {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 100%;
+}
+
+.erm_menu .erm_title_price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.erm_menu .erm_product_list_prices {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+
+.erm_menu .erm_product_desc {
+
+}
+
+.erm_menu .erm_footer_desc {
+    margin-top: 30px;
+}
+
